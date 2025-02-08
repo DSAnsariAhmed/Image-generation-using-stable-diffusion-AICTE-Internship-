@@ -58,6 +58,8 @@ Stable Diffusion works in multiple steps:
 
 ✅ **Final Output:** A realistic image of a **human skeleton** is created.  
 
+<img src="C:\Users\Dell\Desktop\PICS\pic11.png">
+
 ---
 
 ## **5. Download Links for Models and ComfyUI**
@@ -80,4 +82,4 @@ This guide covers:
 ✅ **Example process for generating an image.**  
 ✅ **Download links for models & UI tools.**  
 
-Would you like more help setting up ComfyUI or using other models like **SDXL, DreamShaper, or Anime AI models**? 🚀
+
