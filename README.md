@@ -1,5 +1,10 @@
 # Image-generation-using-stable-diffusion-AICTE-Internship-
 
+### **Project Overview** ###
+This project implements image generation using Stable Diffusion, a cutting-edge model for generating high-quality images from textual descriptions. The model was provided as part of an internship by the Edunet Foundation, an initiative by Tecksakham in collaboration with AICTE, and supported by Microsoft and SAP CSR Initiative under the guidance of **Mr. Jay Rathod**.
+
+The model for this project was downloaded from Hugging Face, a platform that hosts pre-trained models for easy access.
+
 ### **Complete Explanation of Stable Diffusion with ComfyUI**  
 This guide explains how **Stable Diffusion** works using **ComfyUI**, including the **workflow blocks** shown in your image, and provides **download links** for the necessary models and tools.
 
