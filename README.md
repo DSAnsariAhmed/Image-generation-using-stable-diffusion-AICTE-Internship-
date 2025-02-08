@@ -58,7 +58,8 @@ Stable Diffusion works in multiple steps:
 
 ✅ **Final Output:** A realistic image of a **human skeleton** is created.  
 
-<img src="C:\Users\Dell\Desktop\PICS\pic11.png">
+![Screenshot 2025-01-05 181541](https://github.com/user-attachments/assets/c261c5f3-5730-4bf2-b68f-f938eb72f170)
+
 
 ---
 
